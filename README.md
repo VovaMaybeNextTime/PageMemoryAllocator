@@ -42,7 +42,7 @@ The function flags block as *'free'* block.
 >All memory state outputs are made with the `mem_dump` function, which, basically, 
 >goes through 'our' heap and prints the states of all the existing blocks.
 
-### The allocation of *24* and *32* bytes of memory
+### The allocation of *24* bytes of memory
 #### Memory will be successfully allocated
 ##### Code
 ```
