@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Desktop\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj": {}
+    "C:\\Users\\Home\\Desktop\\3 курс\\OS\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Desktop\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj": {
+    "C:\\Users\\Home\\Desktop\\3 курс\\OS\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Desktop\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\3 курс\\OS\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj",
         "projectName": "CustomPageMemoryAllocator",
-        "projectPath": "C:\\Users\\Home\\Desktop\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj",
+        "projectPath": "C:\\Users\\Home\\Desktop\\3 курс\\OS\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Desktop\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\3 курс\\OS\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
